@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BIP Platform</string>
+    <string name="item_to_buy">Want to send notification?</string>
+    <string name="not_message">Any message??</string>
+    <string name="title_activity_edit">Edit Item</string>
+    <string name="done">Done</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_text">message for you</string>
+</resources>

@@ -1,0 +1,10 @@
+  host: biswamobile
+  disk: 1024M
+  name: biswamobile
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  memory: 128M
+  instances: 1
+  services:
+  - MQLight-sampleservice
